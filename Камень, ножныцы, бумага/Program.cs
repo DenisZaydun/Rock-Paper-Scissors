@@ -129,6 +129,7 @@ namespace Камень__ножныцы__бумага
             Console.WriteLine($"Ничейных партий: {draw}");
 
             Console.ReadLine();
+            //именение для git
         }
     }
 }
